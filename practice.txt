@@ -1,0 +1,10 @@
+<body>
+    <div>
+        <img src="a.png">
+        <img src="b.png">
+    </div>
+    <div>
+        <p>Hello</p>
+        <p>World</p>
+    </div>
+</body>
