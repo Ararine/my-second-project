@@ -56,4 +56,4 @@
     
     Staging Area의 파일을 Working Directory로 가져옴
 
-![gitcheatsheet](asset/gitcheatsheet.jpg)
+![gitcheatsheet](https://t1.daumcdn.net/cfile/tistory/21650A47590F67471E)
