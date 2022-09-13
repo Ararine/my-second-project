@@ -178,3 +178,4 @@ log 를 축약하여 보여준다. 16. git reset --hard <고유번호>
    1. 페이지 소스 보기에서 내룔이 표시되므로 중요 내용이 아닌 내용을 구별하기 위해서 사용한다.
 
 ![html2](asset/html2.png)
+![html3](asset/html3.png)
