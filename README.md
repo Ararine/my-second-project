@@ -179,3 +179,20 @@ log 를 축약하여 보여준다. 16. git reset --hard <고유번호>
 
 ![html2](asset/html2.png)
 ![html3](asset/html3.png)
+
+- git 으로 설정시 해당 폴더에서 설정.
+- <> 사이에 다른 <> 가 들어갈 수 없다.
+  - ex)<h1><p1></h1></p1> X
+
+## 1. 스타일
+
+---
+
+![style](asset/style.png)
+
+- 외부스타일, 내부스타일, 인라인스타일이 있다.
+- 외부스타일의 경우
+<link rel="stylesheet"> href="anchor내용" type="text/css" />
+형식으로 연결을 시켜준다.
+- 내부스타일의 경우
+  .
